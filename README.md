@@ -1,6 +1,6 @@
 # Contribuer à maCave.io
 
-Vous pouvez participer au développement de de ce site. Votre contribution sera la bienvenue. Vous pouvez signaler un bug ou demander une amélioration spécifique.
+Vous pouvez participer au développement de de ce site. Votre contribution sera la bienvenue. Vous pouvez signaler un bug, une erreur dans le texte ou de traduction, ou demander une amélioration spécifique.
 
 Quelques éléments à vérifer avant de poster votre demande :
 
